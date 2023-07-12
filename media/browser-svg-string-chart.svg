@@ -1,0 +1,37 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full"
+    viewBox="0 0 400 300">
+    <rect width="400" height="300" x="0" y="0" id="0" fill="none"></rect>
+    <text dominant-baseline="central" text-anchor="middle"
+        style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6"
+        transform="translate(200 260)" fill="#6E7079">xAxis name</text>
+    <text dominant-baseline="central" text-anchor="middle"
+        style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(108.5714 238)"
+        fill="#6E7079">21</text>
+    <text dominant-baseline="central" text-anchor="middle"
+        style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(177.1429 238)"
+        fill="#6E7079">24</text>
+    <text dominant-baseline="central" text-anchor="middle"
+        style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(245.7143 238)"
+        fill="#6E7079">27</text>
+    <text dominant-baseline="central" text-anchor="middle"
+        style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(314.2857 238)"
+        fill="#6E7079">30</text>
+    <path
+        d="M200 76.75L200 85.75L200 76.75ZM200 81.25M200 81.25M200 76.75L200 85.75M200 76.75L200 85.75M200 76.75L200 85.75"
+        fill="red" stroke="black"></path>
+    <path
+        d="M245.7143 119.25L245.7143 128.25L245.7143 119.25ZM245.7143 123.75M245.7143 123.75M245.7143 119.25L245.7143 128.25M245.7143 119.25L245.7143 128.25M245.7143 119.25L245.7143 128.25"
+        fill="red" stroke="black"></path>
+    <path
+        d="M177.1429 161.75L177.1429 170.75L177.1429 161.75ZM177.1429 166.25M177.1429 166.25M177.1429 161.75L177.1429 170.75M177.1429 161.75L177.1429 170.75M177.1429 161.75L177.1429 170.75"
+        fill="red" stroke="black"></path>
+    <path
+        d="M200 204.25L200 213.25L200 204.25ZM200 208.75M200 208.75M200 204.25L200 213.25M200 204.25L200 213.25M200 204.25L200 213.25"
+        fill="red" stroke="black"></path>
+    <path d="M-5 -5l98.6904 0l0 28l-98.6904 0Z" transform="translate(5 5)" fill="rgb(0,0,0)"
+        fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+    <text dominant-baseline="central" text-anchor="start"
+        style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9"
+        transform="translate(5 5)" fill="#464646">Chart Title</text>
+</svg>
